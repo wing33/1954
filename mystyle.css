@@ -1,5 +1,10 @@
-aside# {
+aside#left {
     width: 175px;
     margin-top: 20px;
     float: left;
+}
+
+#left h4 {
+    font-family:arial, helvetica, sans-serif;
+    font-sizw: 20px;
 }
